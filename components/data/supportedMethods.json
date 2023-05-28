@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Cards",
+      "label": ["American Express", "Diners Club", "Mastercard", "VISA"],
+      "total": 4
+    },
+    {
+      "name": "Wallets",
+      "label": ["Apple Pay", "Google Pay", "Microsoft Pay"],
+      "total": 3
+    },
+    {
+      "name": "Alternative",
+      "label": ["After Pay", "Klarna", "UnionPay"],
+      "total": 3
+    }
+  ]
